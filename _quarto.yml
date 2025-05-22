@@ -12,9 +12,14 @@ website:
   twitter-card: true
   favicon: favicon.png
   navbar:
+    left:
+    - text: "Contenido"
+      menu:
+        - text: "Inicio"
+          href: index.qmd
+        - text: "Pulmonar"
+          href: pulmon.qmd
     right:
-      - text: "Inicio"
-        href: index.qmd
       - text: "Registro"
         href: https://forms.gle/registro-pocus
       - icon: github

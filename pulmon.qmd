@@ -1,0 +1,18 @@
+---
+title: "Ecografía Pulmonar para Nefrólogos"
+format: html
+---
+
+# Introducción
+
+La ecografía pulmonar es una herramienta útil para evaluar sobrecarga de volumen, derrames pleurales y consolidaciones en pacientes con enfermedad renal.
+
+# Fundamentos
+
+- Artefactos: líneas A, líneas B
+- Signos clave: deslizamiento pleural, punto pulmonar
+- Imágenes normales vs. patológicas
+
+# Videos de referencia
+
+- [Tutorial básico (YouTube)](https://youtube.com/link)

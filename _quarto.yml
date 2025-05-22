@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ultrasonografía para Nefrólogos"
+  site-url: https://JC4st.github.io/pocus-nefro
+  description: "Curso de dos días sobre POCUS para nefrólogos, basado en aprendizaje complejo."
+  repo-url: https://github.com/JC4st/pocus-nefro
+  repo-actions: [edit, issue]
+  open-graph: true
+  twitter-card: true
+  favicon: favicon.png
+  navbar:
+    right:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Registro"
+        href: https://forms.gle/registro-pocus
+      - icon: github
+        href: https://github.com/JC4st/pocus-nefro
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
+    css: styles.css

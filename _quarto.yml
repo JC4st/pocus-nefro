@@ -19,6 +19,10 @@ website:
           href: index.qmd
         - text: "Pulmonar"
           href: pulmon.qmd
+        - text: "FAV"
+          href: fav.qmd
+        - text: "foCUS"
+          href: focus.qmd
     right:
       - text: "Registro"
         href: https://forms.gle/registro-pocus

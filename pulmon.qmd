@@ -1,6 +1,7 @@
 ---
 title: "Ecografía Pulmonar para Nefrólogos"
 format: html
+language: es
 ---
 
 # Introducción

@@ -8,10 +8,11 @@ editor: visual
 description: "Curso práctico de 2 días sobre ultrasonografía clínica aplicada a la nefrología, estructurado según el modelo Ten Steps to Complex Learning."
 keywords: [nefrología, ultrasonografía, POCUS, educación médica, formación clínica]
 favicon: favicon.png
-site-url: https://tusitio.github.io/pocus-nefro
+site-url: https://jc4st.github.io/pocus-nefro/
 open-graph: true
 twitter-card: true
 google-scholar: true
+language: es
 ---
 
 # 🩺 Curso de Ultrasonografía a la Cabecera del Paciente para Nefrólogos
@@ -37,7 +38,7 @@ Al finalizar el curso, los participantes serán capaces de:
 
 ## 📅 Agenda del Curso
 
-### Día 1: VExUS, Ecografía Pulmonar y Ecocardiografía básica
+### Día 1: VExUS, Ecografía Pulmonar y Ecocardiografía básica (foCUS)
 
 #### Objetivos del Día
 
@@ -87,6 +88,13 @@ Te recomendamos revisar antes del curso:
 -   [Video: Cómo sostener el transductor correctamente (YouTube)](https://youtu.be/transductor)
 -   [Artículo: POCUS en nefrología – revisión actual](recursos/articulo_revision.pdf)
 
+-------------------------------------------------------------------------
+# Evaluación
+
+-   **Diagnóstica**: Quiz previo (antes del Día 1)
+-   **Formativa**: Checklist durante práctica guiada + discusión
+-   **Sumativa**: Mini-CEX (opcional) + Quiz final
+
 ------------------------------------------------------------------------
 
 ## 🧑‍🏫 Instructores
@@ -94,3 +102,7 @@ Te recomendamos revisar antes del curso:
 [![Juan Castellanos de la Hoz](img/juan.jpeg){width="500"}](www.linkedin.com/in/juan-castellanos-de-la-hoz-814884163)
 
 ![Eduardo Zuñiga](img/eduardo.jpeg){width="500"}
+
+![Valentina Perdomo](img/val.jpeg){width="500"}
+
+![Alejandra Molano](img/alejandra.jpeg){width="500"}
